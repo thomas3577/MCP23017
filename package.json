@@ -1,6 +1,6 @@
 {
   "name": "tessel-mcp23017",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "MCP23017 Library for Tessel",
   "repository": {
     "type": "git",
