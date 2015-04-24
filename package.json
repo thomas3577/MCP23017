@@ -1,5 +1,5 @@
 {
-  "name": "Tessel-MCP23017",
+  "name": "tessel-mcp23017",
   "version": "0.0.1",
   "description": "MCP23017 Library for Tessel",
   "repository": {
