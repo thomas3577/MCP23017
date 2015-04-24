@@ -1,4 +1,15 @@
 {
   "name": "Tessel MCP23017",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "description": "MCP23017 Library for Tessel",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomas3577/MCP23017.git"
+  },
+  "keywords": [
+    "tessel",
+    "MCP23017"
+  ],
+  "author": "Thomas Huber <thomas3577@gmx.net>",
+  "license": "MIT"
 }
